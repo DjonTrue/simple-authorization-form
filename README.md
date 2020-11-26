@@ -1,1 +1,1 @@
-Simple project about Signind In and authorization.
+Simple project about Signing In and authorization.
